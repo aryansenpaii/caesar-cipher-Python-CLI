@@ -1,5 +1,4 @@
 
-```
 # Caesar Cipher CLI Application
 
 This is a simple implementation of the Caesar Cipher encryption and decryption algorithm in Python. The application is run entirely in the command line interface.
